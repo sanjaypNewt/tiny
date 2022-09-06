@@ -1,0 +1,2 @@
+# tiny
+Tiniest NPM module
